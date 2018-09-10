@@ -1,0 +1,10 @@
+{
+    "name": "alchemica/materia",
+    "type": "project",
+    "authors": [
+        {
+            "name": "Filippo Bovo"
+        }
+    ],
+    "require": {}
+}
